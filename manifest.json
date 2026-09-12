@@ -1,0 +1,682 @@
+{
+  "target": "https://naturobd.com",
+  "ip": "76.76.21.21",
+  "started": "2026-09-12 22:04:13",
+  "pages": [
+    {
+      "url": "https://naturobd.com",
+      "file": "index.html",
+      "type": "PAGE",
+      "status": 200,
+      "size_kb": 288.66,
+      "lines": 74,
+      "forms": [],
+      "server": "Vercel",
+      "ct": "text/html; charset=utf-8"
+    }
+  ],
+  "css": [
+    {
+      "file": "index.html_inline_1.css",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_2.css",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_3.css",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "1eea479de012fece.css",
+      "url": "https://naturobd.com/_next/static/css/1eea479de012fece.css?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "4df78f2cd73d6b26.css",
+      "url": "https://naturobd.com/_next/static/css/4df78f2cd73d6b26.css?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    }
+  ],
+  "js": [
+    {
+      "file": "index.html_inline_1.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_2.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_3.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_4.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_5.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_6.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_7.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_8.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_9.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_10.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_11.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_12.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_13.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_14.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_15.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_16.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_17.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_18.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_19.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_20.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_21.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_22.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_23.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_24.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_25.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_26.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_27.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_28.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_29.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_30.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_31.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_32.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_33.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_34.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_35.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_36.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_37.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_38.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_39.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_40.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_41.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_42.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_43.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_44.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_45.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_46.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_47.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_48.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_49.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_50.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_51.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_52.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_53.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_54.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_55.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_56.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_57.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_58.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_59.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_60.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_61.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_62.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_63.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_64.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_65.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_66.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_67.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_68.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_69.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_70.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_71.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_72.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_73.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_74.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_75.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_76.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_77.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_78.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_79.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_80.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_81.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_82.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_83.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_84.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_85.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_86.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_87.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_88.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "index.html_inline_89.js",
+      "type": "inline",
+      "from": "https://naturobd.com"
+    },
+    {
+      "file": "bc9c3264-1af6dc27e37b7dd0.js",
+      "url": "https://naturobd.com/_next/static/chunks/bc9c3264-1af6dc27e37b7dd0.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "6141-011ecbaff469f043.js",
+      "url": "https://naturobd.com/_next/static/chunks/6141-011ecbaff469f043.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "4255-8920bfbb450f1ed0.js",
+      "url": "https://naturobd.com/_next/static/chunks/4255-8920bfbb450f1ed0.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "global-error-082e11bf18a0124b.js",
+      "url": "https://naturobd.com/_next/static/chunks/app/global-error-082e11bf18a0124b.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "39209d7c-8acaacec69678c21.js",
+      "url": "https://naturobd.com/_next/static/chunks/39209d7c-8acaacec69678c21.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "1580-003a84780369850a.js",
+      "url": "https://naturobd.com/_next/static/chunks/1580-003a84780369850a.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "fd9d1056-969c2d1984a652a9.js",
+      "url": "https://naturobd.com/_next/static/chunks/fd9d1056-969c2d1984a652a9.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "6137-304211f89e2bd3b7.js",
+      "url": "https://naturobd.com/_next/static/chunks/6137-304211f89e2bd3b7.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "3627521c-fbd001cd11085da7.js",
+      "url": "https://naturobd.com/_next/static/chunks/3627521c-fbd001cd11085da7.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "9301-c40e5caeb6a1630f.js",
+      "url": "https://naturobd.com/_next/static/chunks/9301-c40e5caeb6a1630f.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "polyfills-42372ed130431b0a.js",
+      "url": "https://naturobd.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "2117-942229bdfc71bf5a.js",
+      "url": "https://naturobd.com/_next/static/chunks/2117-942229bdfc71bf5a.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "2210-b16208b9b23bad38.js",
+      "url": "https://naturobd.com/_next/static/chunks/2210-b16208b9b23bad38.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "2972-29cdf34917b65aa5.js",
+      "url": "https://naturobd.com/_next/static/chunks/2972-29cdf34917b65aa5.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "webpack-e2ba4617b96033b5.js",
+      "url": "https://naturobd.com/_next/static/chunks/webpack-e2ba4617b96033b5.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "5184-ca6d4409808c4df8.js",
+      "url": "https://naturobd.com/_next/static/chunks/5184-ca6d4409808c4df8.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "not-found-165c6e7bd0e4a59a.js",
+      "url": "https://naturobd.com/_next/static/chunks/app/not-found-165c6e7bd0e4a59a.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "5878-41b8b93ff0d10bf6.js",
+      "url": "https://naturobd.com/_next/static/chunks/5878-41b8b93ff0d10bf6.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "error-574272802f979bce.js",
+      "url": "https://naturobd.com/_next/static/chunks/app/error-574272802f979bce.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "662-222b85e1b36c3cdf.js",
+      "url": "https://naturobd.com/_next/static/chunks/662-222b85e1b36c3cdf.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "12038df7-25a5f03e44f2ecde.js",
+      "url": "https://naturobd.com/_next/static/chunks/12038df7-25a5f03e44f2ecde.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "layout-04c4ed76422e18f6.js",
+      "url": "https://naturobd.com/_next/static/chunks/app/layout-04c4ed76422e18f6.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "2412-756e6123eeb57b42.js",
+      "url": "https://naturobd.com/_next/static/chunks/2412-756e6123eeb57b42.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "9954-312d00679605b782.js",
+      "url": "https://naturobd.com/_next/static/chunks/9954-312d00679605b782.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "page-6d9d931f78510b95.js",
+      "url": "https://naturobd.com/_next/static/chunks/app/%5Bdomain%5D/page-6d9d931f78510b95.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "1566-e0cdc30c48f522da.js",
+      "url": "https://naturobd.com/_next/static/chunks/1566-e0cdc30c48f522da.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "9851-d637e30726deec35.js",
+      "url": "https://naturobd.com/_next/static/chunks/9851-d637e30726deec35.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "main-app-be3d940aef6bd3eb.js",
+      "url": "https://naturobd.com/_next/static/chunks/main-app-be3d940aef6bd3eb.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    },
+    {
+      "file": "8655-e314af889d6721a6.js",
+      "url": "https://naturobd.com/_next/static/chunks/8655-e314af889d6721a6.js?dpl=dpl_C3dkjAntArWi6uZrZMDpqrfiyd3i",
+      "type": "external"
+    }
+  ],
+  "images": [
+    {
+      "file": "ajax-loader.0b80f665.gif",
+      "url": "https://naturobd.com/_next/static/media/ajax-loader.0b80f665.gif",
+      "size": "4.1KB"
+    }
+  ],
+  "svg": [
+    {
+      "file": "slick.f895cfdf.svg",
+      "url": "https://naturobd.com/_next/static/media/slick.f895cfdf.svg#slick",
+      "size": "0.9KB"
+    }
+  ],
+  "fonts": [
+    {
+      "file": "slick.653a4cbb.woff",
+      "url": "https://naturobd.com/_next/static/media/slick.653a4cbb.woff",
+      "size": "1.3KB"
+    },
+    {
+      "file": "SolaimanLipi-Bold.ttf",
+      "url": "https://naturobd.com/fonts/SolaimanLipi-Bold.ttf",
+      "size": "104.3KB"
+    },
+    {
+      "file": "SolaimanLipi.ttf",
+      "url": "https://naturobd.com/fonts/SolaimanLipi.ttf",
+      "size": "108.4KB"
+    },
+    {
+      "file": "slick.25572f22.eot",
+      "url": "https://naturobd.com/_next/static/media/slick.25572f22.eot",
+      "size": "1.0KB"
+    },
+    {
+      "file": "slick.6aa1ee46.ttf",
+      "url": "https://naturobd.com/_next/static/media/slick.6aa1ee46.ttf",
+      "size": "0.9KB"
+    }
+  ],
+  "docs": [],
+  "media": [],
+  "assets": [],
+  "finished": "2026-09-12 22:04:25"
+}
