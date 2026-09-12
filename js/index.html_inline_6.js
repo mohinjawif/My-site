@@ -1,0 +1,1 @@
+self.__next_f.push([1,"er justify-center my-20\",\"children\":[[\"$\",\"h1\",null,{\"className\":\"text-center text-3xl font-semibold mb-5\",\"children\":\"404 - Page Not Found\"}],[\"$\",\"$L1e\",null,{\"href\":\"/\",\"className\":\"mt-4\",\"children\":[\"$\",\"$L1f\",null,{\"title\":\"Go Homepage\",\"className\":\"py-3\"}]}]]}],\"notFoundStyles\":[]}]}]}]}]}]}]]}]\n"])
